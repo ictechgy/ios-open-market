@@ -1443,7 +1443,7 @@ gif가 보이는가? 분명히 화면에는 [0, 0] ~ [0, 5]에 해당하는 셀�
 
 ### 캐시를 이용하여 해결할 수 있다?!
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8e1b8114-862a-4d3f-bbf7-74cef126280c/Untitled.png)
+![야곰](https://user-images.githubusercontent.com/39452092/131179244-b8287746-04c6-4a01-9604-bb9eb6ff29e8.png)
 
 - 야곰이 하신 말씀을 보고 수박이 해주신 말을 들어보니 **캐시를 이용하여 이미지 중복 문제를 해결할 수도 있을 것 같다.**
     - (이미지가 미리 캐싱되어 있는 경우) 네트워킹을 하지 않고 이미지를 **동기적**으로 가져와서 셀에 설정할 수 있으므로 이미지 중복 문제가 생기지 않게 될 것 같다.
@@ -1993,7 +1993,7 @@ let usNumber = NSNumber(value: usPrice)
 print(formatter.string(from: usNumber)!)
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8c704988-9592-4c97-914d-adc37f0b3a9c/Screen_Shot_2021-08-09_at_11.17.03_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8c704988-9592-4c97-914d-adc37f0b3a9c/Screen_Shot_2021-08-09_at_11.17.03_PM.png)
+![돈](https://user-images.githubusercontent.com/39452092/131179464-eec7960d-fbde-469a-8a20-14f7c5fb94e2.png)
 
 &nbsp;
 
