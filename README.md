@@ -4,6 +4,10 @@
 
 with 🐶 [*Coden*](https://github.com/ictechgy), 🔫 [*Geon*](https://github.com/jgkim1008), ☁️ [*Tyler*](https://github.com/TaeJoongYoon)(Reviewer)
 
+&nbsp; 
+
+📖 공부 자료는 [STUDY.md](https://github.com/ictechgy/ios-open-market/blob/main/STUDY.md)를 참고해주세요. 
+
 &nbsp;
 ## 프로젝트 설명
 사용자가 등록한 물품들을 그리드 리스트 형태로 보여주는 마켓 어플리케이션
